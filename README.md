@@ -4,6 +4,7 @@ Expo ile react native kullanılarak geliştirilmiş bir görev yönetim (task-ma
 ## Özellikler
 - Not ekleme / güncelleme / silme
 - Liste ekleme / güncelleme / silme
+- Koyu yada açık temaya göre otomatik tema değişikliği
 
 ## Kurulum
 Projeyi kurmak için şu adımları izleyin:
