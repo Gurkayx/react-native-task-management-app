@@ -3,7 +3,15 @@ Expo ile react native kullanılarak geliştirilmiş bir görev yönetim (task-ma
 
 ## Ekran görüntüleri
 
-![Resim Açıklaması](resim_adresi)
+![Resim Açıklaması](https://github.com/Gurkayx/react-native-task-management-app/blob/main/screenshots/ss1.png)
+![Resim Açıklaması](https://github.com/Gurkayx/react-native-task-management-app/blob/main/screenshots/ss2.png)
+![Resim Açıklaması](https://github.com/Gurkayx/react-native-task-management-app/blob/main/screenshots/ss3.png)
+![Resim Açıklaması](https://github.com/Gurkayx/react-native-task-management-app/blob/main/screenshots/ss4.png)
+![Resim Açıklaması](https://github.com/Gurkayx/react-native-task-management-app/blob/main/screenshots/ss5.png)
+![Resim Açıklaması](https://github.com/Gurkayx/react-native-task-management-app/blob/main/screenshots/ss6.png)
+![Resim Açıklaması](https://github.com/Gurkayx/react-native-task-management-app/blob/main/screenshots/ss7.png)
+![Resim Açıklaması](https://github.com/Gurkayx/react-native-task-management-app/blob/main/screenshots/ss8.png)
+![Resim Açıklaması](https://github.com/Gurkayx/react-native-task-management-app/blob/main/screenshots/ss9.png)
 
 ## Özellikler
 - Not ekleme / güncelleme / silme
