@@ -8,6 +8,6 @@ Expo ile react native kullanılarak geliştirilmiş bir görev yönetim (task-ma
 ## Kurulum
 Projeyi kurmak için şu adımları izleyin:
 ```bash
-git clone https://github.com/kullaniciadi/projeadi.git
-cd projeadi
+git clone https://github.com/Gurkayx/react-native-task-management-app.git gnote
+cd gnote
 npm install && npx expo install
