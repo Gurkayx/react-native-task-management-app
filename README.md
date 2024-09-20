@@ -1,6 +1,10 @@
 # react-native-task-management-app
 Expo ile react native kullanılarak geliştirilmiş bir görev yönetim (task-management) uygulaması
 
+## Ekran görüntüleri
+
+![Resim Açıklaması](resim_adresi)
+
 ## Özellikler
 - Not ekleme / güncelleme / silme
 - Liste ekleme / güncelleme / silme
